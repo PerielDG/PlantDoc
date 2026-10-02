@@ -109,4 +109,4 @@ if photo is not None:
     st.info(f"💊 **Recommandation :** {recommandations.get(classe, 'Consulter un agronome.')}")
 
 st.divider()
-st.caption("PlantDoc v1.0 — Périel Nitcheu — ENSPY Yaoundé, Cameroun")
+st.caption("PlantDoc v1.0 — DJAMBOU NITCHEU Gérard Périel — ENSPY Yaoundé, Cameroun")
